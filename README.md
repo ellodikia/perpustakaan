@@ -1,6 +1,6 @@
 # 📚 BookLoan - Library Management System
 
-![Version](https://img.shields.io/badge/version-1.0.0-rose)
+![Version](https://img.shields.io/badge/version-1.1-rose)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777bb4)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4.0-38b2ac)
 ![MySQL](https://img.shields.io/badge/MySQL-DB-blue)
