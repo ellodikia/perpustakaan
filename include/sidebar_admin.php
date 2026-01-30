@@ -23,7 +23,7 @@
                 </div>
                 <div class="ml-4">
                     <span class="block text-white font-black tracking-tighter text-xl leading-none">BookLoan</span>
-                    <span class="text-[9px] font-bold text-slate-500 uppercase tracking-[0.3em]">Admin </span>
+                    <span class="text-[9px] font-bold text-slate-500 uppercase tracking-[0.3em]"><a href="register.php">Admin</a> </span>
                 </div>
             </div>
             <button @click="isOpen = false" class="lg:hidden text-slate-500 hover:text-rose-500 transition-colors">

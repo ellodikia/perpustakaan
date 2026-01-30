@@ -65,7 +65,7 @@ $daftar_buku = mysqli_query($koneksi, "SELECT * FROM buku ORDER BY id_buku DESC"
         <main class="flex-1 w-full min-h-screen flex flex-col">
             
             <div class="lg:hidden bg-slate-900 border-b border-slate-800 px-4 py-3 flex justify-between items-center sticky top-0 z-40">
-                <span class="text-white font-black uppercase tracking-tighter text-sm">G-LIB <span class="text-rose-500">Buku</span></span>
+                <span class="text-white font-black uppercase tracking-tighter text-sm">BookLoan <span class="text-rose-500">Buku</span></span>
                 <button @click="$dispatch('toggle-sidebar')" class="p-2 bg-slate-800 rounded-lg text-slate-400">
                     <i class="fa-solid fa-bars-staggered text-lg"></i>
                 </button>

@@ -45,7 +45,7 @@ $daftarTransaksi = mysqli_query($koneksi, $queryTransaksi);
                     <div class="w-7 h-7 bg-rose-500 rounded flex items-center justify-center text-white">
                         <i class="fa-solid fa-book-bookmark text-xs"></i>
                     </div>
-                    <span class="text-white font-black uppercase tracking-tighter text-sm">G-LIB</span>
+                    <span class="text-white font-black uppercase tracking-tighter text-sm">BookLoan</span>
                 </div>
                 <button @click="$dispatch('toggle-sidebar')" class="p-2 bg-slate-800 rounded-lg text-slate-400 active:scale-95 transition-all">
                     <i class="fa-solid fa-bars-staggered text-lg"></i>
